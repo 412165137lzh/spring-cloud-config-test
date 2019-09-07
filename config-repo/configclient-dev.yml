@@ -1,4 +1,4 @@
-message: dev-2.0
+message: dev-1.0
 server:
   port: 9999
 eureka:
